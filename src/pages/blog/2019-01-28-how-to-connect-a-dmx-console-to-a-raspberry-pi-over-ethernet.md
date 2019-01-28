@@ -9,7 +9,7 @@ tags:
 ---
 First off, here's the signal chain:
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vRqblexRjft7WEdITe7eWxx0m3tGrxPXhc_OV2v4QwkLEYtBv0Kz1QOQ2d1gl2HdXIi7_qc6DPH9BDP/pub?w=480&amp;h=360">
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vRqblexRjft7WEdITe7eWxx0m3tGrxPXhc_OV2v4QwkLEYtBv0Kz1QOQ2d1gl2HdXIi7_qc6DPH9BDP/pub?w=362&amp;h=366">
 
 - DMX Console (Simulated by [Lightkey](https://lightkeyapp.com) on my laptop)
 - DMX physical connector (Connected to my laptop via [UltraDMX Micro](https://dmxking.com/usbdmx/ultradmxmicro) USB adapter)
